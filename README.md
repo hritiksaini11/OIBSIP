@@ -30,3 +30,10 @@ Allow users to specify password length and character set preferences.
 
 ------------THIRD PROJECT-------------
 
+Create a command-line basic weather app in Python that fetches and displays current weather data for a user-specified location (e.g., city or ZIP code) using a weather API. Show basic information such as temperature, humidity, and weather conditions
+ using library like Tkinter.
+
+---------- Key Points -----------
+
+1. API Integration: Connect to a weather API.
+2. User Input Handling: Validate and process user input for location.
